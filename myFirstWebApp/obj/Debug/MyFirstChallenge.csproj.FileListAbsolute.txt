@@ -1,8 +1,0 @@
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\bin\myFirstWebApp.dll.config
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\bin\myFirstWebApp.dll
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\bin\myFirstWebApp.pdb
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\obj\Debug\myFirstWebApp.dll
-C:\Users\Ethan\Documents\GitHub\My-First-Web-App\myFirstWebApp\obj\Debug\myFirstWebApp.pdb

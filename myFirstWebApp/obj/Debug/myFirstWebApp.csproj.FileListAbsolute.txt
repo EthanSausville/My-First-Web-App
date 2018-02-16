@@ -1,9 +1,0 @@
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\bin\myFirstWebApp.dll.config
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\bin\myFirstWebApp.dll
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\bin\myFirstWebApp.pdb
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\obj\Debug\myFirstWebApp.csprojResolveAssemblyReference.cache
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\obj\Debug\myFirstWebApp.csproj.CoreCompileInputs.cache
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\obj\Debug\myFirstWebApp.dll
-C:\Users\Ethan\Documents\My Code\myFirstWebApp\myFirstWebApp\obj\Debug\myFirstWebApp.pdb
