@@ -8,15 +8,15 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        What is your first name?&nbsp;
-        <asp:TextBox ID="firstNameTextBox" runat="server"></asp:TextBox>
+        How old are you?&nbsp;
+        <asp:TextBox ID="ageTextBox" runat="server"></asp:TextBox>
         <br />
         <br />
-        What is your last name?&nbsp;
-        <asp:TextBox ID="lastNameTextBox" runat="server"></asp:TextBox>
+        How much money do you have in your pocket?&nbsp;
+        <asp:TextBox ID="moneyTextBox" runat="server"></asp:TextBox>
         <br />
         <br />
-        <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="Click Me" />
+        <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="Click Me To See Your Fortune" />
         <br />
         <br />
         <asp:Label ID="resultLabel" runat="server"></asp:Label>

@@ -22,22 +22,22 @@ namespace myFirstWebApp {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// firstNameTextBox control.
+        /// ageTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox firstNameTextBox;
+        protected global::System.Web.UI.WebControls.TextBox ageTextBox;
         
         /// <summary>
-        /// lastNameTextBox control.
+        /// moneyTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox lastNameTextBox;
+        protected global::System.Web.UI.WebControls.TextBox moneyTextBox;
         
         /// <summary>
         /// okButton control.

@@ -16,10 +16,10 @@ namespace myFirstWebApp
 
         protected void okButton_Click(object sender, EventArgs e)
         {
-            string firstName = firstNameTextBox.Text;
-            string lastName = lastNameTextBox.Text;
+            string age = ageTextBox.Text;
+            string money = moneyTextBox.Text;
 
-            string result = "Hello " + firstName + " " + lastName;
+            string result = "At " + age + " years old, I would have expected you to have more than " + money + " in your pocket.";
 
             resultLabel.Text = result;
         }
